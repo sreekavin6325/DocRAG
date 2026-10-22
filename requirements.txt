@@ -1,0 +1,9 @@
+pypdf
+python-docx
+openpyxl
+python-pptx
+xlrd
+# The TF-IDF retrieval engine is pure Python — no numpy / scikit-learn / scipy needed.
+# Optional — only if you enable LLM answer synthesis in Settings:
+# openai
+# anthropic
